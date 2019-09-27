@@ -6,9 +6,10 @@
 Welcome to Being X's documentation!
 ===================================
 
+Contents:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 
 
