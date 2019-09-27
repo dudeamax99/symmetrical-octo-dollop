@@ -1,10 +1,10 @@
-.. Being X's documentation master file, created by
-   sphinx-quickstart on Fri Sep 27 08:32:56 2019.
+.. Being X documentation master file, created by
+   sphinx-quickstart on Fri Sep 27 09:27:58 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Being X's's documentation!
-=====================================
+Welcome to Being X's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
